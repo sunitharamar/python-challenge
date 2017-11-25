@@ -1,0 +1,13 @@
+
+
+Input file path:  Resources/passage.txt
+
+
+Paragraph Analysis
+---------------------------
+Approximate Word Count:   121
+Approximate Sentence Count:  5
+Average Letter Count:      4.388430
+Average Sentence Length: 24.2 
+
+
